@@ -1,4 +1,4 @@
-# Repozitar pro domaci ukoly do predmetu Vedecke vzpoctz v  Pythhonu
-Toto je repozitar pro odevzdavani domacich ukolu do predmetu Vedecke vzpoctz v  Pythhonu
+# Repozitar pro domaci ukoly do predmetu Vedecke vzpocty v  Pythonu
+Toto je repozitar pro odevzdavani domacich ukolu do predmetu Vedecke vypocty v Pythonu
 
 Autor Simon Marek
